@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TTkBackup</string>
+    <string name="receive_ing">正在接收文件</string>
+    <string name="receive_create_group">创建群组</string>
+    <string name="receive_remove_group">移除群组</string>
+    <string name="check_gps_tip">使用时需要打开GPS开关并授予所有权限</string>
+    <string name="check_permission">检查权限</string>
+    <string name="device_old">我是旧机器</string>
+    <string name="device_new">我是新机器</string>
+    <string name="action_search_devices">搜索新设备</string>
+    <string name="action_open_wifi">打开wifi</string>
+    <string name="action_change_device">更换新机</string>
+    <string name="action_cut_connection">断开连接</string>
+    <string name="status_enable">可用的</string>
+</resources>
