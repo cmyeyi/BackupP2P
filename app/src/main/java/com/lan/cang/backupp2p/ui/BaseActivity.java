@@ -1,4 +1,4 @@
-package com.lan.cang.backupp2p;
+package com.lan.cang.backupp2p.ui;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;

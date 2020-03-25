@@ -6,7 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.lan.cang.backupp2p.MainActivity;
+import com.lan.cang.backupp2p.ui.MainActivity;
 import com.lan.cang.backupp2p.R;
 
 import java.util.List;

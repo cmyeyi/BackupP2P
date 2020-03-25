@@ -1,4 +1,4 @@
-package com.lan.cang.backupp2p;
+package com.lan.cang.backupp2p.ui;
 
 import android.app.ProgressDialog;
 import android.content.BroadcastReceiver;
@@ -14,6 +14,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
+import com.lan.cang.backupp2p.R;
 import com.lan.cang.backupp2p.broadcast.DirectBroadcastReceiver;
 import com.lan.cang.backupp2p.callback.DirectActionListener;
 import com.lan.cang.backupp2p.model.FileTransfer;

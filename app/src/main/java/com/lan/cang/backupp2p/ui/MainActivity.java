@@ -1,4 +1,4 @@
-package com.lan.cang.backupp2p;
+package com.lan.cang.backupp2p.ui;
 
 import android.Manifest;
 import android.content.Intent;
@@ -6,6 +6,8 @@ import android.content.pm.PackageManager;
 import android.net.wifi.p2p.WifiP2pDevice;
 import android.os.Bundle;
 import android.view.View;
+
+import com.lan.cang.backupp2p.R;
 
 import androidx.annotation.NonNull;
 import androidx.core.app.ActivityCompat;
